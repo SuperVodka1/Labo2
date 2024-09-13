@@ -1,0 +1,28 @@
+body {
+    background-color: #f0c6c6;
+}
+  h1 {
+    background-image:url("../images/banniere.jpg");
+    background-position: center;
+    background-size: cover;
+    color: rgb(248, 246, 246);
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);
+    text-align: center;
+
+  }
+  img {
+    max-height: 256px;
+    max-width: 256px;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+  h4 {
+    padding-left: 32px;
+    color:red
+  }
+  a {
+    text-decoration: none;
+    color: blue;}
